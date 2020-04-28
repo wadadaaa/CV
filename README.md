@@ -21,7 +21,7 @@ Always passionate to learn new skills, open new horizons, and collaborate with p
 - **Python Developer** @ [Cyber Bit](https://www.cyberbit.com/) _(Aug 2017 - Apr 2018)_ <br>
   A temporary project in a large company which main aim was to develop an analog antenna to detect suspicious calls.
 
-  - I joined the company at its early stages and helped with a high-level web platform developing a high-level web platform that manages multiple hardware components for antenna which was detecting phone calls between mobile phones
+  - I joined the company at its early stages and helped with a high-level web platform developing that manages multiple hardware components for antenna which was detecting phone calls between mobile phones.
 
   - **_Technologies used:_** Python, Tornado, REST API, Javascript , Jquery, Ajax, Backbone, SAAS, Grunt, Mongo DB, Git, Mercurial, Bootstrap
     <br><br>
@@ -45,7 +45,7 @@ Always passionate to learn new skills, open new horizons, and collaborate with p
 
 ## 🌐 On The Side
 
-- **Mentor** @ [Djano Girls](https://djangogirls.org/) <br>
+- **Mentor** @ [Django Girls](https://djangogirls.org/) <br>
   Non-profit organization and a community that empowers and helps women to organize free, one-day programming workshops
 
   - Leading classes to teach student comprehension of HTML, CSS and general web design principles
