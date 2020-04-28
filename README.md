@@ -48,8 +48,8 @@ Always passionate to learn new skills, open new horizons, and collaborate with p
 - **Mentor** @ [Djano Girls](https://djangogirls.org/) <br>
   Non-profit organization and a community that empowers and helps women to organize free, one-day programming workshops
 
-  - Was leading classes to teach student comprehension of HTML, CSS and general web design principles
-  - Was mentoring students through the workshop and build the first Django App
+  - Leading classes to teach student comprehension of HTML, CSS and general web design principles
+  - Mentoring students through the workshop and build the first Django App
     <br><br>
 
 ## 👩‍🎓 Education
