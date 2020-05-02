@@ -10,7 +10,7 @@ Always passionate to learn new skills, open new horizons, and collaborate with p
 
 ## 👩‍💻 Technical Experience
 
-- **Full Stack Engineer** @ [Planet Watchers](https://www.planetwatchers.com/) _(2018 - Present)_ <br>
+- **Full Stack Engineer** @ [Planet Watchers](https://www.planetwatchers.com/) _(Apr 2018 - Present)_ <br>
   Machine learning satellite sensors company robust monitor and alert system which provides critical information for natural resource-intensive enterprises from the Forestry, Agriculture, and Energy industries.
 
   - I joined the developers' team to build a geospatial analytics platform, leveraging data from satellite images to help enterprises monitor their natural resource assets.
@@ -26,7 +26,7 @@ Always passionate to learn new skills, open new horizons, and collaborate with p
   - **_Technologies used:_** Python, Tornado, REST API, Javascript , Jquery, Ajax, Backbone, SAAS, Grunt, Mongo DB, Git, Mercurial, Bootstrap
     <br><br>
 
-- **Full Stack Engineer** @ [Cyren](https://www.cyren.com/) _(Sep 2017 - Feb 2018)_ <br>
+- **Full Stack Engineer** @ [Cyren](https://www.cyren.com/) _(Mar 2016 - Aug 2017)_ <br>
   One page web platform for the management of cloud-based security products, reports processing and visualization, and service apps for internal use.
 
   - I joined as a full-stack web developer, my responsibilities were: from design mockups to client apps, including DB, backend, frontend.
