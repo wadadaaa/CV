@@ -61,5 +61,5 @@ Always passionate to learn new skills, open new horizons, and collaborate with p
 - **Hadassah Colledge of Technology** Pre.Engeneer, Software Engeneer<br>
   [HADASSAH Academy](https://www.hac.ac.il/) - Jerusalem, Israel _(2008 - 2010)_ <br>
 
-- **Bachelor of Linguist** focused on Journalism<br>
+- **Linguist** focused on Journalism<br>
   [Penza State Pedagogical University named after VG Belinsky ](https://ppi.pnzgu.ru/) - Penza, Russia _(2000 - 2003)_
