@@ -52,8 +52,7 @@ Always passionate to learn new skills, open new horizons, and collaborate with p
   - Mentoring students through the workshop and build the first Django App
     <br><br>
 
-- **Finisher** @ [IRONMAN 70.4](https://www.ironman.com/) <br>
-    -  🏊🏽‍♀️ 🚴🏽‍♀️ 🏃🏽‍♀️
+- **Finisher** @ [IRONMAN 70.3](https://www.ironman.com/) 🏊🏽‍♀️ 🚴🏽‍♀️ 🏃🏽‍♀️ <br>
    <br><br>
 
 ## 👩‍🎓 Education
