@@ -13,7 +13,7 @@ Always passionate to learn new skills, open new horizons, and collaborate with p
 - **Frontend Engineer** @ [MyHeritage](https://www.myheritage.com/) _(Sep 2020 - Present)_ <br>
     MyHeritage is the leading destination to discover, preserve and share your family history.
 
-  - Designed and implemented efficient frontend solutions for MyHeritage's back office and billing systems, utilizing technologies such as React, PHP, GraphQL and HTML/CSS, resulting in improved operational efficiency and customer satisfaction..
+  - Designed and implemented efficient frontend solutions for MyHeritage's back office and billing systems, utilizing technologies such as React, PHP, GraphQL and HTML/CSS, resulting in improved operational efficiency and customer satisfaction.
 
   - **_Technologies used:_** React + Redux, PHP, AWS, GraphQL.
     <br><br>
