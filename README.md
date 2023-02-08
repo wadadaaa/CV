@@ -10,7 +10,15 @@ Always passionate to learn new skills, open new horizons, and collaborate with p
 
 ## 👩‍💻 Technical Experience
 
-- **Full Stack Engineer** @ [Planet Watchers](https://www.planetwatchers.com/) _(Apr 2018 - Present)_ <br>
+- **Frontend Engineer** @ [MyHeritage](https://www.myheritage.com/) _(Sep 2020 - Present)_ <br>
+    MyHeritage is the leading destination to discover, preserve and share your family history.
+
+  - Designed and implemented efficient frontend solutions for MyHeritage's back office and billing systems, utilizing technologies such as React, PHP, GraphQL and HTML/CSS, resulting in improved operational efficiency and customer satisfaction..
+
+  - **_Technologies used:_** React + Redux, PHP, AWS, GraphQL.
+    <br><br>
+
+- **Full Stack Engineer** @ [Planet Watchers](https://www.planetwatchers.com/) _(Apr 2018 - Jul 2020)_ <br>
   Machine learning satellite sensors company robust monitor and alert system which provides critical information for natural resource-intensive enterprises from the Forestry, Agriculture, and Energy industries.
 
   - I joined the developers' team to build a geospatial analytics platform, leveraging data from satellite images to help enterprises monitor their natural resource assets.
@@ -18,15 +26,7 @@ Always passionate to learn new skills, open new horizons, and collaborate with p
   - **_Technologies used:_** React + Redux, Node.js (with TypeScript), lambda functions, ECS and AWS beanstalk, CircleCI.
     <br><br>
 
-- **Python Developer** @ [Cyber Bit](https://www.cyberbit.com/) _(Aug 2017 - Apr 2018)_ <br>
-  A temporary project in a large company which main aim was to develop an analog antenna to detect suspicious calls.
-
-  - I joined the company at its early stages and helped with a high-level web platform developing that manages multiple hardware components for antenna which was detecting phone calls between mobile phones.
-
-  - **_Technologies used:_** Python, Tornado, REST API, Javascript , Jquery, Ajax, Backbone, SAAS, Grunt, Mongo DB, Git, Mercurial, Bootstrap
-    <br><br>
-
-- **Full Stack Engineer** @ [Cyren](https://www.cyren.com/) _(Mar 2016 - Aug 2017)_ <br>
+- **Full Stack Engineer** @ [Cyren](https://www.cyren.com/) _(Mar 2016 - Apr 2018)_ <br>
   One page web platform for the management of cloud-based security products, reports processing and visualization, and service apps for internal use.
 
   - I joined as a full-stack web developer, my responsibilities were: from design mockups to client apps, including DB, backend, frontend.
