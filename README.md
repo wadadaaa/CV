@@ -1,120 +1,80 @@
-# Hi 👋 I'm Anna Lopatinski
+# Anna Lopatinski 👋
 
-💌 lopatinski@gmail.com 🤖 github.com/wadadaaa  
-📞 054-943-8102 💼 @wadadaaa
+**Senior Frontend Engineer · Frontend Tech Lead · ex-Intel**
 
-I'm a software developer from Israel 🇮🇱 with 10+ years of experience.
+I’m a design-oriented full-stack engineer with 10+ years of experience. I lead frontend development at a cybersecurity startup, where I design and build React and TypeScript interfaces for incident response and data protection. At Intel, I built tools that helped developers configure cloud resources and explore metrics and logs.
 
-My main language is JavaScript, and sometimes Python, Go or PHP as I specialize in frontend development and full-stack web applications. I've mostly worked in innovative companies because I love solving real-world problems, building products that people actually use, and bringing ideas to life through code.
+[Download my résumé (PDF)](Anna_Lopatinski_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/anna-lopatinski/) · [GitHub](https://github.com/wadadaaa)  
+[lopatinski@gmail.com](mailto:lopatinski@gmail.com) · [+972 54 943 8102](tel:+972549438102)
 
-I'm passionate about creating intuitive user experiences and writing clean, maintainable code. I believe that great software isn't just about what happens under the hood, but also about how it makes people feel when they use it.
+## Experience
 
-I value continuous learning and sharing knowledge with others. Whether it's mentoring at Django Girls workshops or tackling an IRONMAN, I'm always up for a good challenge! 💪
+### Frontend Tech Lead · Stealth-mode cybersecurity startup
 
-## ⚙️ Skills
+**Jul 2026 – Present**
 
-**Frontend Development**  
-React + Redux, React + Zustand, Vue + Pinia, HTML/CSS, responsive design
+I lead frontend architecture and UX across a suite of AI security products. I built a shared design system with Tailwind CSS, shadcn/ui and Radix UI for our incident response and data protection tools. I also lead system design for an AI agent that analyzes systems and flags errors.
 
-**Backend & APIs**  
-PHP, Python, Django, GraphQL, REST APIs, Node.js
+**Tools** · React, TypeScript, Tailwind CSS, shadcn/ui, Radix UI, Claude Code, Cursor, MCP
 
-**Cloud & Infrastructure**  
-AWS, serverless, CI/CD, Kubernetis, deployment automation
+### Senior Frontend Engineer · [Intel](https://www.intel.com/)
 
-**Databases**  
-MySQL, PostgreSQL, data modeling
+**Jun 2023 – Jan 2025**
 
-**Product Thinking**  
-UX principles, user-centered design, agile development
+I built React interfaces for Intel’s AI cloud so developers could configure compute resources, manage accounts and inspect metrics and logs. I used charts and virtualized views to make infrastructure data easier to explore, and added JSON export for developers who needed to analyze it in their own tools.
 
-**Team Collaboration**  
-mentoring, code reviews, cross-functional teamwork
+**Tools** · React, TypeScript, data visualization
 
----
+### Frontend Engineer · [MyHeritage](https://www.myheritage.com/)
 
-## 💼 My Experience
+**Sep 2020 – Jun 2023**
 
-**Senior Frontend Engineer** @ [Intel® Tiber™ AI Cloud](https://www.intel.com/)  
-*Building the future of AI infrastructure* ☁️  
-Jun 2023 – Present
+I built back-office and billing interfaces for teams managing customer accounts. I also worked on a localization module that split text into individual strings for human translators and helped migrate that workflow to Crowdin.
 
-Working on Intel's cutting-edge AI cloud platform that democratizes access to AI computing resources. It's incredibly exciting to be part of a team that's making AI more accessible to developers and researchers worldwide.
+**Tools** · React, Redux, PHP, AWS, GraphQL, Crowdin
 
-**_Technologies I work with:_** React, TypeScript, cloud platforms, AI/ML tools
-<br><br>
+### Full Stack Engineer · [Planet Watchers](https://www.planetwatchers.com/)
 
-**Frontend Engineer** @ [MyHeritage](https://www.myheritage.com/)  
-*Helping millions discover their family stories* 🌳  
-Sep 2020 – Jun 2023
+**Apr 2018 – Jul 2020**
 
-I got to work on the systems that power MyHeritage's operations behind the scenes. My days were spent crafting intuitive frontend solutions for back office and billing systems. There's something really satisfying about building tools that make our team's work smoother and keep our customers happy. Plus, knowing that our work helps people connect with their heritage and family history made every bug fix feel worthwhile!
+I worked on a geospatial analytics platform that helped teams in forestry, agriculture and energy interpret satellite imagery.
 
-**_Technologies I mastered:_** React + Redux, PHP, AWS, GraphQL
-<br><br>
+**Tools** · React, Redux, Node.js, TypeScript, AWS Lambda, ECS, Elastic Beanstalk, CircleCI
 
-**Full Stack Engineer** @ [Planet Watchers](https://www.planetwatchers.com/)  
-*Using satellites to help protect our planet* 🌍  
-Apr 2018 – Jul 2020
+### Full Stack Engineer · [Cyren](https://www.cyren.com/)
 
-I joined a talented team building a geospatial analytics platform that turns satellite imagery into actionable insights for companies in forestry, agriculture, and energy. It felt amazing knowing our code was helping businesses make better decisions about natural resources. The combination of cutting-edge tech and environmental impact made every sprint review exciting.
+**Mar 2016 – Apr 2018**
 
-**_Technologies I worked with:_** React + Redux, Node.js (TypeScript), Lambda functions, ECS, AWS Beanstalk, CircleCI
-<br><br>
+I built security tools from design mockups through to responsive interfaces, REST APIs and database schemas.
 
-**Full Stack Engineer** @ [Cyren](https://www.cyren.com/)  
-*Making cybersecurity accessible* 🔒  
-Mar 2016 – Apr 2018
+**Tools** · Python, Django, JavaScript, jQuery, Backbone, SCSS, MySQL
 
-I wore many hats here, taking projects from concept to completion. Whether it was translating design mockups into responsive interfaces or architecting database solutions, I loved the variety and challenge of full-stack development. Building security tools taught me so much about writing robust, secure code from the ground up.
+### Full Stack Developer · [Viggo](https://www.viggosmarthotel.com/)
 
-**_Technologies I learned:_** Python, Django, REST API, JavaScript, jQuery, Ajax, Backbone, SCSS, Grunt, MySQL, Git, Mercurial, Foundation
-<br><br>
+**Dec 2014 – Jan 2016**
 
-**Full Stack Developer** @ [Viggo](https://www.viggosmarthotel.com/)  
-*Revolutionizing the hotel guest experience* 🏨  
-Dec 2014 – Jan 2016
+I built content management tools that hotel staff used to customize what guests saw on their in-room smart TVs.
 
-My first deep dive into building user-friendly content management systems! I helped create tools that let hoteliers customize their guests' smart TV experience. It was rewarding to see how our CMS made it easy for hotels to showcase their unique personality and brand while improving the guest experience.
+**Tools** · Python, Django, JavaScript, jQuery, PostgreSQL, Bootstrap
 
-**_Technologies I discovered:_** Python, Django, JavaScript, jQuery, Ajax, PostgreSQL, Git, Bootstrap
+## Independent project
 
----
+### [BIMPipe](https://bimpipe.com/) · 2024 – Present
 
-## 🌟 Beyond the Code
+I’m building a browser-based tool for plumbing engineers. They can upload an IFC building model, inspect fixtures in 2D and 3D, adjust the placement of vertical pipes and export the result for use in Revit. I develop it independently with React, TypeScript, Three.js and web-ifc.
 
-**Mentor** @ [Django Girls](https://djangogirls.org/)  
-*Empowering women in tech, one workshop at a time*
+## Skills
 
-One of my favorite ways to give back! I love teaching HTML, CSS, and web design fundamentals, then watching students build their very first Django app. The "aha!" moments are absolutely priceless, and I always learn something new from each group. There's nothing quite like seeing someone write their first line of code that actually works!
-<br><br>
+- **Frontend and UX** · React, TypeScript, Vue.js, design systems, user experience design, responsive interfaces, Redux, Zustand, Pinia
+- **AI products and development** · Agent interfaces, Claude Code, Cursor, MCP servers
+- **Backend and infrastructure** · Node.js, Python, Django, PHP, REST APIs, GraphQL, AWS, Kubernetes, CI/CD, PostgreSQL, MySQL
 
-**IRONMAN 70.3 Finisher** 🏊🏽‍♀️ 🚴🏽‍♀️ 🏃🏽‍♀️  
+## Education
 
-**Tel Aviv MARATHON 2025** 🏃🏽‍♀️  
+- **Advanced JavaScript courses** · [Frontend Masters](https://frontendmasters.com/), 2020 – Present
+- **Pre-Engineering, Software Engineering** · [Hadassah College of Technology](https://www.hac.ac.il/), Jerusalem, 2008 – 2010
+- **Linguistics & Journalism** · [Penza State Pedagogical University](https://ppi.pnzgu.ru/), Penza, 2000 – 2003
 
-Because sometimes you need to challenge yourself outside of debugging sessions. Training taught me so much about breaking down big goals into manageable pieces – surprisingly useful for tackling complex coding projects too! Plus, the mental toughness from endurance sports definitely helps during those long refactoring sessions.
+## Beyond the code
 
----
-
-## 🎓 Education
-
-**Advanced JavaScript Courses**  
-[Frontend Masters](https://frontendmasters.com/) _(2020 - present)_  
-*Staying current with the ever-evolving JavaScript ecosystem*
-
-**Pre-Engineering, Software Engineering**  
-[Hadassah College of Technology](https://www.hac.ac.il/) - Jerusalem, Israel _(2008 - 2010)_  
-*Where my love affair with code began*
-
-**Linguistics & Journalism**  
-[Penza State Pedagogical University](https://ppi.pnzgu.ru/) - Penza, Russia _(2000 - 2003)_  
-*My first degree – taught me how to communicate clearly and think analytically*
-
----
-
-**Hobbies:** IRONMAN training, exploring new tech trends, mentoring aspiring developers, traveling, and always learning something new!
-
----
-
-*I'm always excited to chat about new opportunities, interesting projects, or just talk shop about the latest in tech. Feel free to reach out! Let's build something amazing together* ✨
+I mentor at [Django Girls](https://djangogirls.org/), helping participants build their first Django app. Outside work, I train for endurance races. I’ve finished an IRONMAN 70.3 and the 2025 Tel Aviv Marathon.
